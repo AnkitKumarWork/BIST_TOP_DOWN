@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../BIST_DATAPATH.v" \
+"../../../../../Johnson_counter.v" \
+"../../../../../LFSR.v" \
+"../../../../../Ring_counter.v" \
+"../../../../../clock_gate.v" \
+"../../../../../mux_4x1.v" \
+"../../../../../tb_bist_datapath.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/BIST_DATAPATH.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BIST_DATAPATH
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/Johnson_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Johnson_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/LFSR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LFSR
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/Ring_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ring_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/clock_gate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_gate
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/mux_4x1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4x1
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/tb_bist_datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BIST_DATAPATH_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/My Drive/INTERVIEW_PREPARATION/INTERVIEW_PREPARATION/codings and lab/ASIC_DESIGNS/BIST/bist_datapath/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
